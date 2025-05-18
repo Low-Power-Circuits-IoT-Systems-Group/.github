@@ -1,7 +1,7 @@
 
 <h1 align="center">Low Power Circuits IoT Systems Group</h1>
 
-# About the Group ☺️
+# About the Group 
 
 👋 Hello! This is Low Power Circuits IoT Systems Group of Indian Institiute of Technology (IIT) Gandhinagar. The group is lead by [Prof. Madhav K Pathak](https://iitgn.ac.in/faculty/ee/fac-madhav).
   
