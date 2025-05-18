@@ -1,5 +1,5 @@
 
-<h1 align="center">Low Power Circuits IoT Systems Group</h1>
+<h1 align="center">Low Power Circuits & IoT Systems Group</h1>
 
 # About the Group 
 
