@@ -10,7 +10,7 @@ This is Low Power Circuits & IoT Systems Group of Indian Institiute of Technolog
 - Power management integrated circuit (PMIC) design.
 - Analog and Mixed Signal IC Design.
 - Ambient micro-power energy harvesting for batteryless IoTs.
-- IoT sensor electronic system design
+- IoT sensor electronic system design.
 
 ## 🌐 Contact Us:
 
